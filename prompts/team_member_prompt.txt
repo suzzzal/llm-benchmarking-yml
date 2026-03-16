@@ -1,0 +1,23 @@
+Create a Drupal Recipe that adds a "Team Member" content type.
+
+Requirements:
+
+Fields:
+
+* Photo (image field)
+* Bio (long text field)
+
+Create a View called "Team Members" that:
+
+* displays Team Member content
+* shows photo and bio
+* uses a grid layout
+* shows 12 items per page
+
+Output requirements:
+
+1. Provide the full Drupal Recipe folder structure
+2. Include recipe.yml
+3. Include required config YAML files
+4. Ensure YAML syntax is valid
+5. Do not include explanations
