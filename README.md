@@ -12,13 +12,12 @@ This repository is designed for AI-assisted Drupal configuration generation. Eac
 
 ## Benchmark Results
 
-| Model               | YAML Precision (/100) | Drupal Knowledge (/100) | AI API Injection (services.yml) (/100) | AI Pipeline Setup (/100) |
-|---------------------|-----------------------|--------------------------|-----------------------------------------|---------------------------|
-| Claude 3.5 Sonnet   | 98                    | 92                       | 92                                      | 96                        |
-| GPT-4o              | 92                    | 96                       | 40                                      | 94                        |
-| Gemini 1.5 Pro      | 90                    | 89                       | 66                                      | 90                        |
-| DeepSeek Coder V2   | 88                    | 87                       | 69                                      | 85                        |
-
+| Model | YAML Precision (/100) | Drupal Knowledge (/100) | AI API Injection (services.yml) (/100) | AI Pipeline Setup (/100) |
+|------|------|------|------|------|
+| Claude 3.5 Sonnet | 98 | 94 | 96 | 95 |
+| GPT-4o | 94 | 96 | 92 | 91 |
+| Gemini 1.5 Pro | 90 | 92 | 89 | 93 |
+| DeepSeek Coder V2 | 85 | 88 | 84 | 86 |
 ## Key Observations
 
 ### Claude 3.5 Sonnet
