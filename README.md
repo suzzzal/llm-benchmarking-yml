@@ -10,6 +10,13 @@ This repository is designed for AI-assisted Drupal configuration generation. Eac
 - Input: shared prompt at `prompts/team_member_prompt.txt`
 - Output: scores for YAML validity, Drupal knowledge, services injection, and pipeline setup
 
+# How I got Access to these models?
+
+GitHub Student Pack , by verifying my Studen ID i got access to all the necessary models like claude 3.5, gpt-4o ....
+
+Prototype framework for comparing how well different large language models generate Drupal Recipe configuration.
+
+
 ## Benchmark Results
 
 | Model | YAML Precision (/100) | Drupal Knowledge (/100) | AI API Injection (services.yml) (/100) | AI Pipeline Setup (/100) |
