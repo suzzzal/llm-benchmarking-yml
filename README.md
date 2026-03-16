@@ -22,7 +22,7 @@ This repository is designed for AI-assisted Drupal configuration generation. Eac
 ## Architecture Diagram
 
 <p align="center">
-  <img src="recipe-graph.jpg" width="700">
+  <img src="recipegraph.jpg" width="700">
 </p>
 
 ## Example Output
