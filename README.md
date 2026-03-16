@@ -14,9 +14,6 @@ This repository is designed for AI-assisted Drupal configuration generation. Eac
 
 GitHub Student Pack , by verifying my Studen ID i got access to all the necessary models like claude 3.5, gpt-4o ....
 
-Prototype framework for comparing how well different large language models generate Drupal Recipe configuration.
-
-
 ## Benchmark Results
 
 | Model | YAML Precision (/100) | Drupal Knowledge (/100) | AI API Injection (services.yml) (/100) | AI Pipeline Setup (/100) |
