@@ -74,9 +74,8 @@ outputs/<model>/*.yml   -->  benchmark/benchmark_runner.py
 
 1. Clone repository:
 
-```powershell
-cd C:\Users\LENOVO
-git clone <repo-url> llm-benchmarking-yml
+```
+git clone https://github.com/suzzzal/llm-benchmarking-yml
 cd llm-benchmarking-yml
 ```
 
