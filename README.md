@@ -28,7 +28,7 @@ This repository is designed for AI-assisted Drupal configuration generation. Eac
 ## Example Output
 
 <p align="center">
-  <img src="benchmark-output.jpg" width="700">
+  <img src="Screenshot 2026-03-16 163733.jpg" width="700">
 </p>
 
 
