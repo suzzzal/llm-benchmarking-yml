@@ -18,6 +18,16 @@ This repository is designed for AI-assisted Drupal configuration generation. Eac
 | GPT-4o | 94 | 96 | 92 | 91 |
 | Gemini 1.5 Pro | 90 | 92 | 89 | 93 |
 | DeepSeek Coder V2 | 85 | 88 | 84 | 86 |
+
+## Architecture Diagram
+
+![Recipe Graph](recipe graph.png)
+
+## Example Output
+
+![Benchmark Screenshot](Screenshot 2026-03-16 163733.png)
+
+
 ## Key Observations
 
 ### Claude 3.5 Sonnet
