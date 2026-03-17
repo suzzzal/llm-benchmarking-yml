@@ -1,6 +1,6 @@
-# AI Recipe Benchmark Prototype
+# AI Recipe Benchmark ( Basic )
 
-Prototype framework for comparing how well different large language models generate Drupal Recipe configuration.
+Basic framework for comparing how well different large language models generate Drupal Recipe configuration.
 
 ## Overview
 
