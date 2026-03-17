@@ -1,4 +1,4 @@
-# AI Recipe Benchmark ( Basic )
+# AI Recipe Benchmark ( Basic Verm )
 
 Basic framework for comparing how well different large language models generate Drupal Recipe configuration.
 
